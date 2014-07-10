@@ -177,6 +177,9 @@ function sa_prefs_user_profile_fields( $user )
 	$SAPrefsOptions = get_option('SAPrefsOptions');
 	$nameoptions = SAPrefsUserFieldList();
 
+	// If the options haven't been saved yet, don't display the options.
+	if( !is_array( $SAPrefsOptions ) ) { return; }
+
 	// If the table hasn't been defined yet, don't display the options.
 	if( !array_key_exists( 'dbtable', $SAPrefsOptions ) ) { return; }
 	
