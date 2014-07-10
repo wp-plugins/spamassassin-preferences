@@ -11,6 +11,8 @@ Set your SpamAssassin preferences from your WordPress user profile.
 
 == Description ==
 
+Set your SpamAssassin preferences from your WordPress user profile.
+
 This code is released under the GPL v2, see license.txt for details.
 
 == Installation ==
