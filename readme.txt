@@ -5,7 +5,7 @@ Author URI: http://toolstack.com
 Tags: spamassassin
 Requires at least: 3.5.0
 Tested up to: 4.0
-Stable tag: 0.1
+Stable tag: 1.0
 
 Set your SpamAssassin preferences from your WordPress user profile.
 
@@ -43,6 +43,9 @@ No.
 2. User preferences screen.
 
 == Changelog ==
+
+= 1.0 =
+* No changes other than an offical 1.0 release.
 
 = 0.1 =
 * Initial release.

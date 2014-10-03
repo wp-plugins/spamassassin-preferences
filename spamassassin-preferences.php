@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: SpamAssassin Preferences
-Version: 0.1
+Version: 1.0
 Plugin URI: http://toolstack.com/sa-prefs
 Author: Greg Ross
 Author URI: http://toolstack.com
@@ -18,7 +18,7 @@ This software is released under the GPL v2.0, see license.txt for details
 
 if( !function_exists( 'SAPrefsLoad' ) )
 	{
-	define( 'SAPrefsVersion', '0.1' );
+	define( 'SAPrefsVersion', '1.0' );
 
 	/*
 	 	This function is called when a user edits their profile and creates the Just Writing section.
