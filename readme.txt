@@ -45,9 +45,11 @@ No.
 == Changelog ==
 
 = 1.0 =
+* Release date: October 3, 2014
 * No changes other than an offical 1.0 release.
 
 = 0.1 =
+* Release date: July 10, 2014
 * Initial release.
 
 == Upgrade Notice ==
